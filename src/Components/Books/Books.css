@@ -1,0 +1,13 @@
+.Books{
+    display: flex;
+    justify-content: space-between;  
+    align-content: space-between;
+    flex-flow: row wrap;  
+    /* background-color: whitesmoke; */
+    margin-right: 10%; 
+    margin-left: 10%;  
+    margin-top: 5%;
+    margin-bottom: 5%;
+    
+  
+}

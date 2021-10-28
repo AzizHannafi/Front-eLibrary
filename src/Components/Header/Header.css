@@ -1,0 +1,34 @@
+
+.container-fluid>img{
+    object-fit: contain;  
+    height: 30px;
+    width: 150px;
+    border-radius: 5px;
+}
+#link{
+    margin-left: 10px;
+    margin-right: 15px;
+    text-decoration: none;
+    color: black;
+}
+#link:hover{
+    color: rgb(122, 122, 122);
+}
+#ul__emement{
+   position: fixed;
+   right: 0;
+}
+.header__element{
+    position: sticky;
+    top: 0;
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+ 
+    z-index: 1;
+    
+}
+.navbar-nav{
+ 
+  right: 150px;  
+
+}

@@ -1,0 +1,22 @@
+.banner{
+    position: relative;
+    background: url("/src/Assets/Banner-6.jpg");
+    min-height: 100vh;
+    background-size: cover;
+    background-position:center ;
+    padding: 250px 0 200px;
+}
+.col-sm-6{  
+    color: black;
+}
+.introduction{
+    background-color: #ffffff;
+    opacity: 0.7;
+    color: black;
+    border-radius: 3px;
+    padding: 5px;
+}
+.introduction>h2,p{
+    padding:8px;
+    text-align: center;
+}

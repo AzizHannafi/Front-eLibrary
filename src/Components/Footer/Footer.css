@@ -1,0 +1,17 @@
+#footer__element_one{
+    padding-top: 60px;
+
+}
+#last__footer{
+    background-color: rgba(0, 0, 0, 0.2);
+}
+#last__footer>p{
+    color: white;
+  
+}
+.footer{
+    width: 100%;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}

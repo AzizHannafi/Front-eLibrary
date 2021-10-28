@@ -1,0 +1,36 @@
+.body>h3{
+    margin-top: 5%;
+    text-align: center;
+}
+.thead-dark{
+    color: white;
+    background-color: rgb(26, 25, 25);
+}
+.container__table{
+    margin-left: 20%;
+    margin-right: 20%;
+   
+    margin-bottom: 5%;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    padding: 30px;
+}
+#btnSubmit{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-color: black;
+    color: whitesmoke;
+    width: 80%;
+}
+#img{
+    width: 30px;
+    height: 30px;
+}
+img:hover{
+    cursor: pointer;
+}
+#linkAdd{
+    color: aliceblue;
+    text-decoration: none;
+}
